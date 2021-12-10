@@ -1,0 +1,10 @@
+//actions constant
+export const GETSTORES = "GETSTORES";
+export const ADDSTORES = "ADDSTORES";
+export const GETCATEGORIES = "GETCATEGORIES";
+export const ADDCATEGORIES = "ADDCATEGORIES";
+export const GETPRODUCTS = "GETPRODUCTS";
+export const GETPRODUCTSTWO = "GETPRODUCTSTWO";
+export const STORETOTALPRODUCT = "STORETOTALPRODUCT";
+
+

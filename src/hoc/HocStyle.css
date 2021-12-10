@@ -1,0 +1,15 @@
+:root {
+    --populer: #7b2cbf;
+    --lezzoo: #E4343E;
+}
+
+.cardsTopBorder {
+    border-top-color: var(--lezzoo) !important;
+    border-top-width: 0.5rem;
+}
+
+.cardTitle {
+    font-weight: bold !important;
+}
+
+/*card temp*/
